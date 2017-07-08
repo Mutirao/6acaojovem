@@ -16,6 +16,8 @@ Esse ano serão aprovados 15 projetos nos Cucas Jangurussu, Mondubim e Barra. A 
 
 ### Projetos:
 **Cuca Jangurussu**
+
+Responsável pelo acompanhamento: Duda
 - Simples Cidade
 - Festival InModa
 - Exposição Pura Pele
@@ -23,6 +25,8 @@ Esse ano serão aprovados 15 projetos nos Cucas Jangurussu, Mondubim e Barra. A 
 - Rotinas
 
 **Cuca Mondubim**
+
+Responsável pelo acompanhamento: Ivoneide
 - Narrativas Possiveis
 - Estação Jogadão
 - Conexão Sound: Formação e periferia
@@ -30,12 +34,13 @@ Esse ano serão aprovados 15 projetos nos Cucas Jangurussu, Mondubim e Barra. A 
 - Imprima e Jogue: Oficina de Produção do Jogo de Cartas "Lutas Simbólicas"
 
 **Cuca Barra**
+
+Responsável pelo acompanhamento: Jedi
 - Projeto Natora Champions League
 - Perspectivas Perifericas
 - Me poupe do vexame de morrer tão moço
 - Aqui tem sinal de vida
 - Arruaça
-
 
 ### Cronograma das atividades:
 - 8/6 - lançamento e início das inscrições
