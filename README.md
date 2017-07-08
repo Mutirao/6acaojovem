@@ -5,6 +5,11 @@ Apresentar ferramentas de trabalho colaborativo e criar um ambiente de transpar�
 
 Esse ano serão aprovados 15 projetos nos Cucas Jangurussu, Mondubim e Barra. A equipe de suporte será formada por facilitadores, assessoria de imprensa e transparência (é nois).
 
+### Equipe:
+- Duda / Programanas: mariaeduardalima.el@gmail.com
+- Ivoneide / Programanas: ivoneideduarte28@gmail.com
+- Jedi / Mutirão: andreqlp@gmail.com
+
 ### Material:
 - [Pasta com os projetos no Drive](https://drive.google.com/drive/folders/0B4Q7Y_cuhmVKUWxBa1JyMEE2YnM)
 - Site com a relatoria do edital: 
