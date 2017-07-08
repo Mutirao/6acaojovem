@@ -12,7 +12,7 @@ Esse ano serão aprovados 15 projetos nos Cucas Jangurussu, Mondubim e Barra. A 
 
 ### Material:
 - [Pasta com os projetos no Drive](https://drive.google.com/drive/folders/0B4Q7Y_cuhmVKUWxBa1JyMEE2YnM)
-- Site com a relatoria do edital: 
+- [Site com a relatoria do edital](http://6acaojovem.redelivre.org.br/) 
 
 ### Projetos:
 **Cuca Jangurussu**
